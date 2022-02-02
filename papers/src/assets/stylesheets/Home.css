@@ -1,0 +1,15 @@
+.header{
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    min-height: 80px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.test{
+    min-height: 500em;
+    margin-top: 80px;
+}
