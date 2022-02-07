@@ -7,7 +7,7 @@
 .newFile__container .MuiSvgIcon-root{
     font-size: 1.8rem;
 }
-.newFile__container{
+.newFile__container,.overlay{
     display: flex;
     align-items: center;
     padding: 0px 32px 0px 10px;
